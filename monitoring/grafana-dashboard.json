@@ -2,7 +2,7 @@
   "annotations": {
     "list": [
       {
-        "builtIn": 1,
+        "builtIn": 12,
         "datasource": "-- Grafana --",
         "enable": true,
         "hide": true,
